@@ -1,5 +1,5 @@
 # geojson2poly
-Converts GeoJOSN polygons to osm poly format file.
+Converts GeoJOSN polygons to openstreetmap [(osm) poly format](http://wiki.openstreetmap.org/wiki/Osmosis/Polygon_Filter_File_Format) file.
 ## installation
 
 ```
