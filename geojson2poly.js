@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-var multi = require('multigeojson')
 var extract = require('geojson-extract-geometries')
 var fs = require('fs')
 var path = require('path')
