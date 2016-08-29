@@ -1,6 +1,6 @@
 {
   "name": "geojson2poly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts GeoJOSN polygons to osm poly format file.",
   "main": "geojson2poly.js",
   "scripts": {
